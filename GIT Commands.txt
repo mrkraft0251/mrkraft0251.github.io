@@ -1,0 +1,6 @@
+Work on html files, when done....
+
+git status 				(shows files changed)
+git add . 				(adds all files)
+git commit -m "Message blah blah"
+git push / git push origin main
